@@ -65,10 +65,10 @@ Run the script to perform the specified task (e.g., searching businesses):
 python3 app.py
 ```
 
-### Contributing
+## Contributing
 
 Feel free to submit issues, feature requests, or pull requests to improve the project.
 
-### License
+## License
 
 This project is licensed under the MIT License.
