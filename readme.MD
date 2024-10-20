@@ -18,7 +18,7 @@ This Python project queries the Yelp API for businesses (such as barbers) in a s
 
 - Python 3.x
 - [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager)
-- A [Yelp API Key](https://www.yelp.com/developers/documentation/v3/authentication) (for accessing the Yelp API)
+- A [Yelp API Key](https://docs.developer.yelp.com/docs/fusion-authentication) (for accessing the Yelp API)
 
 ### Setup
 
