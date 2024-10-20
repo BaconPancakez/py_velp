@@ -8,9 +8,8 @@ This Python project queries the Yelp API for businesses (such as barbers) in a s
 2. [Configuration](#configuration)
 3. [Usage](#usage)
 4. [Features](#features)
-5. [Error Handling](#error-handling)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Installation
 
