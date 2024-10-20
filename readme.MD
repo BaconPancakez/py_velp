@@ -64,3 +64,11 @@ Run the script to perform the specified task (e.g., searching businesses):
 ```bash
 python3 app.py
 ```
+
+### Contributing
+
+Feel free to submit issues, feature requests, or pull requests to improve the project.
+
+### License
+
+This project is licensed under the MIT License.
