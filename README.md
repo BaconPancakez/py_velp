@@ -38,7 +38,7 @@ This Python project queries the Yelp API for businesses (such as barbers) in a s
 - Install the required dependencies from `requirements.txt`:
 
   ```bash
-  pip install -r requirements.txt
+  pip3 install -r requirements.txt
   ```
 
 - Add your Yelp API Key in a `config.py` file:
